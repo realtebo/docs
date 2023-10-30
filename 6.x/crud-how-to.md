@@ -95,7 +95,7 @@ However, you might want to change the styling - colors, border, padding etc. Esp
 
 - List operation
     - `bp-section=page-header` for the page header (between breadcrumbs and content)
-    - `bp-section=crud-operation-reorder` for the content
+    - `bp-section=crud-operation-list` for the content
 - Create operation
     - `bp-section=page-header` for the page header (between breadcrumbs and content)
     - `bp-section=crud-operation-create` for the content
